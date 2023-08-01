@@ -27,9 +27,9 @@ Robin is a versatile Engineering leader with 15+ years of experience in software
 *   [The Test Automation Experience interview](https://www.youtube.com/watch?v=vhz_19k1Rio)
 
 ## Open Source Contributions
-- [TestZeus](www.testzeus.com)
-- [Selenium](https://www.selenium.dev/blog/2023/selenium-4-10-0-released/)
-- [WinAppDriver](https://github.com/microsoft/WinAppDriver)
+- [TestZeus](www.testzeus.com) - Open source test automation framework for Salesforce, with auto locators and smart waits.
+- [Selenium](https://www.selenium.dev/blog/2023/selenium-4-10-0-released/) - Releases and support in conference organization.
+- [WinAppDriver](https://github.com/microsoft/WinAppDriver) - Primarily documentation
 
 ##### Other accolades
 

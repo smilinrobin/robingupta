@@ -1,123 +1,42 @@
----
-layout: default
----
+# Hello surfer 🏄‍♂️ welcome to my website.
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Robin is a versatile Engineering leader with 15+ years of experience in software delivery and engineering leadership. With a metrics-driven approach, he has elevated engineering maturity and successfully managed diverse assignments across BFSI, EdTech, Retail, Healthcare, E-commerce, and Developer productivity domains. Experienced in multiple tech stacks, Robin's hands-on leadership style drives results. Beyond work, he mentors at ADPList and Plato, contributes to open-source projects, created TestZeus (the only open source Selenium wrapper for Salesforce), and has authored courses. Balancing responsibilities as a dad and M.O.M (Manager of Managers), Robin excels in both personal and professional realms.
 
-[Link to another page](./another-page.html).
+## Online presence
 
-There should be whitespace between paragraphs.
+*   Linkedin - https://www.linkedin.com/in/polymorphicrobin/
+*   Twitter - @smilinrobin
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+## Publications
+*   Test Automation University Course on Salesforce Test Automation: https://testautomationu.applitools.com/salesforce-testzeus-tutorial/index.html
+- LeadDev
+  - https://leaddev.com/skills-new-managers/everything-you-need-know-when-transitioning-ic-manager
+  - https://leaddev.com/career-paths-progression-promotion/what-top-companies-are-looking-great-remote-technical-interview
+ 
+- Quality Matters Article : https://quality-matters.org/index.php?page=qm-issues-archive&issue=14
+- SalesforceBen : https://www.salesforceben.com/open-source-code-based-framework-to-automate-salesforce-testing/
+- Pacific Northwestern Software Quality Conference : https://www.pnsqc.org/docs/PROP54456887-TestZeus_Gupta_DraftV2.pdf
+- Combinatorics: https://drive.google.com/file/d/0B-HF8YW1i4CWX3h1dzFDNUlXN2c/view?resourcekey=0-LfOcba6W8CSlEbGPAm-uEw
 
 
-### Definition lists can be used with HTML syntax.
+## Speaking Arrangements
+*   Selenium Conference 2016 :  https://youtu.be/HSABgUKpu2E
+*   Selenium Conference 2022 : https://youtu.be/KLN4bHND0nM
+*   Selenium Conference 2023 [Chicago] : https://www.youtube.com/watch?v=i3X2puLqOFk
+*   Dreamforce 2022 [San Francisco] : [How to handle the lightning and thunder of UI Test Automation](https://docs.google.com/presentation/d/1MGmpAAQOvG7S_Ra3wl9Unao6PiVjWav3URd6kmptgWA/edit?usp=sharing)
+*   The Test Automation Experience : [How to Master Salesforce Testing and Development with Robin Gupta
+] (https://www.youtube.com/watch?v=vhz_19k1Rio)
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+## Open Source Contributions
+- TestZeus : www.testzeus.com
+- Selenium : Selenium.dev
+- WinAppDriver : https://github.com/microsoft/WinAppDriver
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+##### Other accolades
 
-```
-The final element.
-```
+1.  [Eurostar Rising Award 2022 Finalist](https://huddle.eurostarsoftwaretesting.com/rising-star-finalists-2022/)
+2.  [Eurostar Rising Award 2023 Finalist](https://huddle.eurostarsoftwaretesting.com/rising-star-finalists-2023/)
+
+##### Mentor at :
+*   ADPList: https://adplist.org/mentors/robin-gupta
+*   https://www.platohq.com/@robin-gupta-992021999

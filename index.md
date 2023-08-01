@@ -4,33 +4,32 @@ Robin is a versatile Engineering leader with 15+ years of experience in software
 
 ## Online presence
 
-*   Linkedin - https://www.linkedin.com/in/polymorphicrobin/
-*   Twitter - @smilinrobin
+*   [Linkedin](https://www.linkedin.com/in/polymorphicrobin/)
+*   Twitter - @smilinrobin 🐤
 
 ## Publications
-*   Test Automation University Course on Salesforce Test Automation: https://testautomationu.applitools.com/salesforce-testzeus-tutorial/index.html
+*   [Test Automation University Course on Salesforce Test Automation](https://testautomationu.applitools.com/salesforce-testzeus-tutorial/index.html)
 - LeadDev
-  - https://leaddev.com/skills-new-managers/everything-you-need-know-when-transitioning-ic-manager
-  - https://leaddev.com/career-paths-progression-promotion/what-top-companies-are-looking-great-remote-technical-interview
+  - [Everything you need to know when transitioning from IC to Manager](https://leaddev.com/skills-new-managers/everything-you-need-know-when-transitioning-ic-manager)
+  - [What top companies are looking for in a great remote technical interview](https://leaddev.com/career-paths-progression-promotion/what-top-companies-are-looking-great-remote-technical-interview)
  
-- Quality Matters Article : https://quality-matters.org/index.php?page=qm-issues-archive&issue=14
-- SalesforceBen : https://www.salesforceben.com/open-source-code-based-framework-to-automate-salesforce-testing/
-- Pacific Northwestern Software Quality Conference : https://www.pnsqc.org/docs/PROP54456887-TestZeus_Gupta_DraftV2.pdf
-- Combinatorics: https://drive.google.com/file/d/0B-HF8YW1i4CWX3h1dzFDNUlXN2c/view?resourcekey=0-LfOcba6W8CSlEbGPAm-uEw
+- [Quality Matters Artic Issue 14](lehttps://quality-matters.org/index.php?page=qm-issues-archive&issue=14)
+- [SalesforceBen article 2022](https://www.salesforceben.com/open-source-code-based-framework-to-automate-salesforce-testing/)
+- [Pacific Northwestern Software Quality Conference Whitepaper 2022](https://www.pnsqc.org/docs/PROP54456887-TestZeus_Gupta_DraftV2.pdf)
+- [Combinatorics whitepaper](https://drive.google.com/file/d/0B-HF8YW1i4CWX3h1dzFDNUlXN2c/view?resourcekey=0-LfOcba6W8CSlEbGPAm-uEw)
 
 
 ## Speaking Arrangements
-*   Selenium Conference 2016 :  https://youtu.be/HSABgUKpu2E
-*   Selenium Conference 2022 : https://youtu.be/KLN4bHND0nM
-*   Selenium Conference 2023 [Chicago] : https://www.youtube.com/watch?v=i3X2puLqOFk
-*   Dreamforce 2022 [San Francisco] : [How to handle the lightning and thunder of UI Test Automation](https://docs.google.com/presentation/d/1MGmpAAQOvG7S_Ra3wl9Unao6PiVjWav3URd6kmptgWA/edit?usp=sharing)
-*   The Test Automation Experience : [How to Master Salesforce Testing and Development with Robin Gupta
-] (https://www.youtube.com/watch?v=vhz_19k1Rio)
+*   [Selenium Conference 2016 session recording](https://youtu.be/HSABgUKpu2E)
+*   [Selenium Conference 2022 session recording](https://youtu.be/KLN4bHND0nM)
+*   [Selenium Conference 2023 - Chicago session recording](https://www.youtube.com/watch?v=i3X2puLqOFk)
+*   [Dreamforce 2022 San Francisco : Session slides](https://docs.google.com/presentation/d/1MGmpAAQOvG7S_Ra3wl9Unao6PiVjWav3URd6kmptgWA/edit?usp=sharing)
+*   [The Test Automation Experience interview](https://www.youtube.com/watch?v=vhz_19k1Rio)
 
 ## Open Source Contributions
-- TestZeus : www.testzeus.com
-- Selenium : Selenium.dev
-- WinAppDriver : https://github.com/microsoft/WinAppDriver
+- [TestZeus](www.testzeus.com)
+- [Selenium](https://www.selenium.dev/blog/2023/selenium-4-10-0-released/)
+- [WinAppDriver](https://github.com/microsoft/WinAppDriver)
 
 ##### Other accolades
 
@@ -38,5 +37,5 @@ Robin is a versatile Engineering leader with 15+ years of experience in software
 2.  [Eurostar Rising Award 2023 Finalist](https://huddle.eurostarsoftwaretesting.com/rising-star-finalists-2023/)
 
 ##### Mentor at :
-*   ADPList: https://adplist.org/mentors/robin-gupta
-*   https://www.platohq.com/@robin-gupta-992021999
+*   [ADPList](https://adplist.org/mentors/robin-gupta)
+*   [PlatoHQ](https://www.platohq.com/@robin-gupta-992021999)

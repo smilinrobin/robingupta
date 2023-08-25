@@ -13,7 +13,7 @@ Robin is a versatile Engineering leader with 15+ years of experience in software
   - [Everything you need to know when transitioning from IC to Manager](https://leaddev.com/skills-new-managers/everything-you-need-know-when-transitioning-ic-manager)
   - [What top companies are looking for in a great remote technical interview](https://leaddev.com/career-paths-progression-promotion/what-top-companies-are-looking-great-remote-technical-interview)
  
-- [Quality Matters Artic Issue 14](lehttps://quality-matters.org/index.php?page=qm-issues-archive&issue=14)
+- [Quality Matters Article Issue 14](lehttps://quality-matters.org/index.php?page=qm-issues-archive&issue=14)
 - [SalesforceBen article 2022](https://www.salesforceben.com/open-source-code-based-framework-to-automate-salesforce-testing/)
 - [Pacific Northwestern Software Quality Conference Whitepaper 2022](https://www.pnsqc.org/docs/PROP54456887-TestZeus_Gupta_DraftV2.pdf)
 - [Combinatorics whitepaper](https://drive.google.com/file/d/0B-HF8YW1i4CWX3h1dzFDNUlXN2c/view?resourcekey=0-LfOcba6W8CSlEbGPAm-uEw)
@@ -27,8 +27,12 @@ Robin is a versatile Engineering leader with 15+ years of experience in software
 *   [The Test Automation Experience interview](https://www.youtube.com/watch?v=vhz_19k1Rio)
 
 ## Open Source Contributions
-- [TestZeus](www.testzeus.com) - Open source test automation framework for Salesforce, with auto locators and smart waits.
-- [Selenium](https://www.selenium.dev/blog/2023/selenium-4-10-0-released/) - Releases and support in conference organization.
+- [TestZeus](http://www.testzeus.com) - Open source test automation framework for Salesforce, with auto locators and smart waits.
+- [Selenium](https://www.selenium.dev/blog/2023/selenium-4-10-0-released/)
+  - Core contribution for releases
+  - Documentation
+  - Support in conference organization.
+- [Promptforce](http://www.promptforce.in) - Open source repository of prompts and resources for Gen AI in the Salesforce world. 
 - [WinAppDriver](https://github.com/microsoft/WinAppDriver) - Primarily documentation
 
 ##### Other accolades

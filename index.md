@@ -24,6 +24,7 @@ Robin is a versatile Engineering leader with 15+ years of experience in software
 *   [Selenium Conference 2022 session recording](https://youtu.be/KLN4bHND0nM)
 *   [Selenium Conference 2023 - Chicago session recording](https://www.youtube.com/watch?v=i3X2puLqOFk)
 *   [Dreamforce 2022 San Francisco : Session slides](https://docs.google.com/presentation/d/1MGmpAAQOvG7S_Ra3wl9Unao6PiVjWav3URd6kmptgWA/edit?usp=sharing)
+*   [Dreamforce 2023 San Francisco : Session slides](https://docs.google.com/presentation/d/10FNGLCcs57SKVmb2S541PMfCa6FJ_9w51-mpjf4XeB0/edit?usp=sharing)
 *   [The Test Automation Experience interview](https://www.youtube.com/watch?v=vhz_19k1Rio)
 
 ## Open Source Contributions

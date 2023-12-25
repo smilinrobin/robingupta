@@ -35,6 +35,7 @@ Robin is a versatile Engineering leader with 15+ years of experience in software
   - Support in conference organization.
 - [Promptforce](http://www.promptforce.in) - Open source repository of prompts and resources for Gen AI in the Salesforce world. 
 - [WinAppDriver](https://github.com/microsoft/WinAppDriver) - Primarily documentation
+- [SeleniumSage](http://seleniumsage.com/) - CustomGPT trained on Selenium Documentation.
 
 ##### Other accolades
 

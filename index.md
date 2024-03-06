@@ -7,7 +7,14 @@ Robin is a versatile Engineering leader with 15+ years of experience in software
 *   [Linkedin](https://www.linkedin.com/in/polymorphicrobin/)
 *   Twitter - @smilinrobin 🐤
 
-## Publications
+## Book
+- Ultimate Selenium WebDriver for Test Automation
+  - [Amazon International](https://www.amazon.com/Ultimate-Selenium-WebDriver-Test-Automation/dp/8196994761/ref=sr_1_1?crid=18YCTD86X7ZG0&dib=eyJ2IjoiMSJ9.uvbNkNNWlWaTqfLnsE6gGg.BxcuzjRHHQivsJDBXIK8znajbKHv6_YXJhGOjPFKlIA&dib_tag=se&keywords=9788196994761&qid=1709706424&sprefix=9788)
+  - [Amazon India](https://www.amazon.in/Ultimate-Selenium-WebDriver-Automation-Commerce/dp/8196994761/ref=sr_1_1?crid=40TEU5VDYARX&dib=eyJ2IjoiMSJ9.uvbNkNNWlWaTqfLnsE6gGg.JzC9QxJTllqgFkBBR-0s9IuOqhfRV10l6E924aiDIA8&dib_tag=se&keywords=9788196994761&qid=1709706460&sprefix=97)
+  - [OrangeAva website](https://orangeava.com/products/ultimate-selenium-webdriver-for-test-automation)
+
+
+## Courses and articles
 *   [Test Automation University Course on Salesforce Test Automation](https://testautomationu.applitools.com/salesforce-testzeus-tutorial/index.html)
 - LeadDev
   - [Everything you need to know when transitioning from IC to Manager](https://leaddev.com/skills-new-managers/everything-you-need-know-when-transitioning-ic-manager)

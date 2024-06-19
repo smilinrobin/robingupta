@@ -54,4 +54,4 @@ Robin is a versatile Engineering leader with 15+ years of experience in software
 *   [PlatoHQ](https://www.platohq.com/@robin-gupta-992021999)
 
 ##### Office hours :
-*   [Find me at](https://officehours.com/robin-gupta)
+*   [Book a session](https://officehours.com/robin-gupta)

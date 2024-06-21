@@ -32,7 +32,8 @@ Robin is a versatile Engineering leader with 15+ years of experience in software
 *   [Selenium Conference 2023 - Chicago session recording](https://www.youtube.com/watch?v=i3X2puLqOFk)
 *   [Dreamforce 2023 San Francisco : Session slides](https://docs.google.com/presentation/d/1gAUKmJNMgIoRrkqI49YtFpMCCWYYNXac/edit?usp=sharing&ouid=100900313795520151590&rtpof=true&sd=true)
 *   [The Test Automation Experience interview](https://www.youtube.com/watch?v=vhz_19k1Rio)
-*   [Saucing up AI testing/TDX](https://docs.google.com/presentation/d/1-MnMnip58Fiw7L37tiiq-S4_ZvytlEhqMrfISD7bpks/edit?usp=sharing)
+*   [Using AI to test AI/TDX](https://docs.google.com/presentation/d/1-MnMnip58Fiw7L37tiiq-S4_ZvytlEhqMrfISD7bpks/edit?usp=sharing)
+*   [Selenium Conference 2024/Antler/Building GenAI based RAG apps](https://docs.google.com/presentation/d/10M2PYHv_RbzJ-2f3xRTC7lhpn9GAXEEEv34Zgj8k5vk/edit?usp=sharing)
 
 ## Open Source Contributions
 - [TestZeus](http://www.testzeus.com) - Open source test automation framework for Salesforce, with auto locators and smart waits.

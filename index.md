@@ -34,6 +34,9 @@ Robin is a versatile Engineering leader with 15+ years of experience in software
 *   [The Test Automation Experience interview](https://www.youtube.com/watch?v=vhz_19k1Rio)
 *   [Using AI to test AI/TDX](https://docs.google.com/presentation/d/1-MnMnip58Fiw7L37tiiq-S4_ZvytlEhqMrfISD7bpks/edit?usp=sharing)
 *   [Selenium Conference 2024/Antler/Building GenAI based RAG apps](https://docs.google.com/presentation/d/10M2PYHv_RbzJ-2f3xRTC7lhpn9GAXEEEv34Zgj8k5vk/edit?usp=sharing)
+*   [StackOverflow Podcast | Would you board a plane safety-tested by GenAI?](https://stackoverflow.blog/2024/05/24/would-you-board-a-plane-safety-tested-by-genai/)
+*   [Simply Automate With Siddharth podcast](https://youtu.be/j3ZBZhnQ7Tc?si=fCm51YAykw6rzMB2)
+*   [Ultimate Selenium WebDriver Guide for Test Automation with Robin Gupta | Joe Colantonio](https://testguild.com/podcast/automation/a498-robin/)
 
 ## Open Source Contributions
 - [TestZeus](http://www.testzeus.com) - Open source test automation framework for Salesforce, with auto locators and smart waits.

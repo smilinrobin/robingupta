@@ -37,6 +37,7 @@ Robin is a versatile Engineering leader with 15+ years of experience in software
 *   [StackOverflow Podcast - Would you board a plane safety-tested by GenAI?](https://stackoverflow.blog/2024/05/24/would-you-board-a-plane-safety-tested-by-genai/)
 *   [Simply Automate With Siddharth podcast](https://youtu.be/j3ZBZhnQ7Tc?si=fCm51YAykw6rzMB2)
 *   [Book review with Joe Colantonio](https://testguild.com/podcast/automation/a498-robin/)
+*   [Step-In forum presentation 2024](https://youtu.be/-m2LbIV79Rk?si=oOYKGdBisR8REXP_)
 
 ## Open Source Contributions
 - [TestZeus](http://www.testzeus.com) - Open source test automation framework for Salesforce, with auto locators and smart waits.

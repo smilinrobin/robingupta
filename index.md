@@ -40,7 +40,7 @@ Robin is a versatile Engineering leader with 15+ years of experience in software
 *   [Step-In forum presentation 2024](https://youtu.be/-m2LbIV79Rk?si=oOYKGdBisR8REXP_)
 
 ## Open Source Contributions
-- [TestZeus](http://www.testzeus.com) - Open source test automation framework for Salesforce, with auto locators and smart waits.
+- [TestZeus](http://www.testzeus.org) - Open source test automation framework for Salesforce, with auto locators and smart waits.
 - [Selenium](https://www.selenium.dev/blog/2023/selenium-4-10-0-released/)
   - Core contribution for releases
   - Documentation
